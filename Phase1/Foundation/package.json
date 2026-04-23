@@ -1,0 +1,12 @@
+{
+  "name": "foundation",
+  "version": "1.0.0",
+  "description": "Basic of Backend",
+  "license": "ISC",
+  "author": "Tahseen",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
